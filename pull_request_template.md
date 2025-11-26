@@ -1,3 +1,10 @@
+## Title
+> [!IMPORTANT]
+> **Required:** Should be in the following format: `[Jira ID] - [Jira item's title]`.
+
+Example:
+- `XYZ-999: Fix QR code rendering in IE11`
+
 ## Summary
 
 > [!IMPORTANT]
