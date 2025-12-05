@@ -7,3 +7,4 @@
 - [ ] The branch name starts with the Jira ID, e.g.: `ABC-123-add-user-endpoint`.
 - [ ] PR description contains no information that should instead live in Jira (exception: any reviewer/tester-specific notes).
 - [ ] I will only merge this PR once **all** assigned reviewers have approved.
+- [ ] I will set the merge commit's message to be the PR title (as above).
